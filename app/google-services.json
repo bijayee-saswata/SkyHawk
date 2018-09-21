@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "644855811724",
+    "firebase_url": "https://skyhawk-cc8bf.firebaseio.com",
+    "project_id": "skyhawk-cc8bf",
+    "storage_bucket": "skyhawk-cc8bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644855811724:android:7a11def56cecfd59",
+        "android_client_info": {
+          "package_name": "com.example.dell.skyhawk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644855811724-gno54splhhffpgnq2o99d47a32mn7hrp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.skyhawk",
+            "certificate_hash": "decf054a7e844b675b5b4be514b55b33a6f787d7"
+          }
+        },
+        {
+          "client_id": "644855811724-gu7kulujf29jclgh5bmdpg3k5rrvqnrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKAVFcaeYsF6hTWglwdG6H5QkMRVn46jM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644855811724-gu7kulujf29jclgh5bmdpg3k5rrvqnrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
